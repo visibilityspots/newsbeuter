@@ -2,7 +2,7 @@ auto-reload yes
 reload-time 30
 confirm-exit yes
 always-display-description true
-browser chromium-browser
+browser chromium
 refresh-on-startup yes
 download-path ~/Downloads
 max-downloads 2
