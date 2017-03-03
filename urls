@@ -9,6 +9,7 @@ http://feeds.feedburner.com/penumbrablog
 http://kalmanolah.net/blog/feed
 http://blog.kennyrasschaert.be/atom.xml
 http://blog.carroarmato0.be/rss
+https://blog.vuokko.be/rss/
 
 # Communities
 http://dierentrein.be/index.php?format=feed&type=rss
@@ -21,6 +22,9 @@ http://kiwi.vermijlen.be/feed/
 # People
 http://blog.widodh.nl/feed/
 http://niek.bartholomeus.be/feed/
+http://www.jinkit.com/rss/
+https://miteshshah.github.io/feed.xml
+http://erenyagdiran.github.io/atom.xml
 
 # Puppet
 http://garylarizza.com/atom.xml
@@ -47,6 +51,9 @@ http://taskwarrior.org/projects/taskwarrior/news.atom
 http://feeds2.feedburner.com/icinga-org
 http://feeds.feedburner.com/theforeman/MaSy
 https://github.com/visibilityspots.private.atom?token=ABcm_76BI94O0lkninDQMi8O0F2sXvRgks6zte4mwA==
+
+# Communities
+http://feeds.feedburner.com/sysadvent?format=xml
 
 # TRAFFIC
 #http://www.verkeerscentrum.be/rss/23|24|30|29-INC|LOS|INF|PEVT.xml
