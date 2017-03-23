@@ -4,7 +4,7 @@ confirm-exit yes
 always-display-description true
 browser chromium
 refresh-on-startup yes
-download-path ~/Downloads
+download-path ~/downloads
 max-downloads 2
 show-read-feeds no
 
