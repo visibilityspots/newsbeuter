@@ -1,5 +1,5 @@
 # PEOPLE
-# Colleagues
+## colleagues
 http://www.krisbuytaert.be/blog/rss.xml
 http://www.paradigmshift.be/?q=rss.xml
 http://budts.be/weblog/feed
@@ -11,15 +11,12 @@ http://blog.kennyrasschaert.be/atom.xml
 http://blog.carroarmato0.be/rss
 https://blog.vuokko.be/rss/
 
-# Communities
-http://dierentrein.be/index.php?format=feed&type=rss
-
-# Friends
+## friends
 http://feeds.feedburner.com/wayupbe
 http://kiwi.vermijlen.be/feed/
 
 # TECHNICAL
-# People
+## people
 http://blog.widodh.nl/feed/
 http://niek.bartholomeus.be/feed/
 http://www.jinkit.com/rss/
@@ -27,41 +24,52 @@ https://miteshshah.github.io/feed.xml
 http://erenyagdiran.github.io/atom.xml
 http://blog.pczone.be/?feed=rss2
 https://dmsimard.com/rss.xml
-# Puppet
+http://www.monkeylittle.com/feed.xml
+http://varmenise.tumblr.com/rss
+
+## puppet
 http://garylarizza.com/atom.xml
 http://www.craigdunn.org/feed/
 http://bombasticmonkey.com/feeds/atom.xml
 http://rnelson0.com/feed/
 
-# Organisations
+## organisations
 http://www.cupfighter.net/index.php/feed/
 
-# Linux
+## linux
 http://zoringroup.com/blog/feed/
-http://www.kernel.org/feeds/all.atom.xml
+http://blog.linuxmint.com/?feed=rss2
 https://www.archlinux.org/feeds/news/
+https://www.kernel.org/feeds/kdist.xml
+https://www.kernel.org/feeds/all.atom.xml
 
-# Random tips & tricks
+## random tips & tricks
 http://www.belgiancowboys.be/feed/
 http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks
 
-# Tools
+## tools
 http://blog.getpelican.com/feeds/all.atom.xml
 https://blogs.apache.org/cloudstack/feed/entries/atom
 http://taskwarrior.org/projects/taskwarrior/news.atom
 http://feeds2.feedburner.com/icinga-org
 http://feeds.feedburner.com/theforeman/MaSy
-https://github.com/visibilityspots.private.atom?token=ABcm_76BI94O0lkninDQMi8O0F2sXvRgks6zte4mwA==
+https://github.com/visibilityspots.private.atom?token=ABcm_8gjVz6qZJOMRLM-powocLc3KmRYks6253-8wA==
 
-# Communities
+## communities
 http://feeds.feedburner.com/sysadvent?format=xml
 
 # TRAFFIC
-#http://www.verkeerscentrum.be/rss/23|24|30|29-INC|LOS|INF|PEVT.xml
+## limburg
+http://www.verkeerscentrum.be/rss/102-INC%7CLOS%7CINF%7CPEVT.xml
 
 # SHOPS
-http://feeds.ibood.com/ibood/be_nl
 http://www.2dehands.be/motoren/motoren/bmw/rss.xml?locale=nl&p=be&qq=bmw+r1200+gs+adventure
 
 # ANDROID
 http://feeds.feedburner.com/AndroidPolice?format=xml
+
+# OPPORTUNITIES
+https://www.bonque.be/rss/5de51c02-67a9-4dbb-a5f1-73598ce094ad
+
+# PAAL
+http://www.palfit.be/?feed=rss2
